@@ -3,6 +3,6 @@ def square_array(array)
     while counter < array.length 
     array[counter]**
     counter ++
-    puts "index = #{counter}"
+    puts ("index = #{counter}")
   end
 end
